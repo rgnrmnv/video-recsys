@@ -1,0 +1,7 @@
+video_id;title;category;embedding
+v1;Mountain Adventure;adventure;"""[0.1, 0.2, 0.3]"""
+v2;Space Exploration;science;"""[0.4, 0.5, 0.6]"""
+v3;Ancient History;education;"""[0.7, 0.8, 0.9]"""
+v4;Ocean Wonders;nature;"""[0.2, 0.3, 0.4]"""
+v5;Robot Friends;science;"""[0.5, 0.6, 0.7]"""
+v6;Ancient Egypt;education;"""[0.8, 0.9, 1.0]"""
